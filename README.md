@@ -1,5 +1,5 @@
 ## Live Demo
-The project is hosted at [Vercel](https://vercel.com). Click [here](https://vercel.com) for the live demo.
+The project is hosted at [Vercel](https://vercel.com). Click [here](https://linktree-clone-kappa-umber.vercel.app) for the live demo.
 
 ## For Developers
 
